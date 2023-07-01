@@ -1,5 +1,5 @@
 # 💫 About Me:
-Passionate and goal-oriented individual with a keen interest in technological advancements. Well-versed in Java, C, and SQL, and currently exploring the fascinating fields of Machine Learning and Data Analytics. A strong believer in teamwork, with exceptional communication and interpersonal skills. Seeking valuable hands-on experience to apply and sharpen my knowledge.
+Passionate and goal-oriented individual with a keen interest in technological advancements. Well-versed in Java, C, and SQL, and currently exploring the various java frameworks, namely, Spring Boot, Spring Microservices and Hibernate. A strong believer in teamwork, with exceptional communication and interpersonal skills. Seeking valuable hands-on experience to apply and sharpen my knowledge.
 
 
 ## 🌐 Socials:
